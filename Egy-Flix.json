@@ -20,7 +20,7 @@
         },
         {
             "name":"ADMIN_REWARDED_AD_TYPE",
-            "value":"MAX"
+            "value":"FALSE"
         },
         {
             "name":"ADMIN_REWARDED_ADMOB_ID",
@@ -36,7 +36,7 @@
         },
         {
             "name":"ADMIN_INTERSTITIAL_TYPE",
-            "value":"MAX"
+            "value":"FALSE"
         },
         {
             "name":"ADMIN_INTERSTITIAL_CLICKS",
@@ -48,11 +48,11 @@
         },
         {
             "name":"ADMIN_BANNER_FACEBOOK_ID",
-            "value":"MAX"
+            "value":"FALSE"
         },
         {
             "name":"ADMIN_BANNER_TYPE",
-            "value":"MAX"
+            "value":"FALSE"
         },
         {
             "name":"ADMIN_NATIVE_FACEBOOK_ID",
@@ -68,7 +68,7 @@
         },
         {
             "name":"ADMIN_NATIVE_TYPE",
-            "value":"MAX"
+            "value":"FALSE"
         },
         {
             "name":"APP_CURRENCY",
