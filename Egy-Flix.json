@@ -20,55 +20,55 @@
         },
         {
             "name":"ADMIN_REWARDED_AD_TYPE",
-            "value":"IS"
+            "value":"MAX"
         },
         {
             "name":"ADMIN_REWARDED_ADMOB_ID",
-            "value":"1503a0dc9"
+            "value":"ae886c2d239b1874"
         },
         {
             "name":"ADMIN_INTERSTITIAL_ADMOB_ID",
-            "value":"1503a0dc9"
+            "value":"660fafa8c77af840"
         },
         {
             "name":"ADMIN_INTERSTITIAL_FACEBOOK_ID",
-            "value":"1503a0dc9"
+            "value":"660fafa8c77af840"
         },
         {
             "name":"ADMIN_INTERSTITIAL_TYPE",
-            "value":"IS"
+            "value":"MAX"
         },
         {
             "name":"ADMIN_INTERSTITIAL_CLICKS",
-            "value":2
+            "value":1
         },
         {
             "name":"ADMIN_BANNER_ADMOB_ID",
-            "value":"1503a0dc9"
+            "value":"f56524009d5064b4"
         },
         {
             "name":"ADMIN_BANNER_FACEBOOK_ID",
-            "value":"1503a0dc9"
+            "value":"f56524009d5064b4"
         },
         {
             "name":"ADMIN_BANNER_TYPE",
-            "value":"IS"
+            "value":"MAX"
         },
         {
             "name":"ADMIN_NATIVE_FACEBOOK_ID",
-            "value":"ca-app-pub-xxxxxxxxxxxxxxx\/xxxxxxxxxxxxxxx"
+            "value":"9c17f55ce685e2ed"
         },
         {
             "name":"ADMIN_NATIVE_ADMOB_ID",
-            "value":"576aa3ec44b8a9ed"
+            "value":"9c17f55ce685e2ed"
         },
         {
             "name":"ADMIN_NATIVE_LINES",
-            "value":4
+            "value":3
         },
         {
             "name":"ADMIN_NATIVE_TYPE",
-            "value":"FALSE"
+            "value":"MAX"
         },
         {
             "name":"APP_CURRENCY",
