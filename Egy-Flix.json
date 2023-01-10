@@ -20,41 +20,40 @@
         },
         {
             "name":"ADMIN_REWARDED_AD_TYPE",
-            "value":"MAX"
+            "value":"ADMOB"
         },
         {
             "name":"ADMIN_REWARDED_ADMOB_ID",
-            "value":"ae886c2d239b1874"
+            "value":"ca-app-pub-3940256099942544/8691691433"
         },
         {
             "name":"ADMIN_INTERSTITIAL_ADMOB_ID",
-            "value":"660fafa8c77af840"
+            "value":"1503a0dc9"
         },
         {
             "name":"ADMIN_INTERSTITIAL_FACEBOOK_ID",
-            "value":"660fafa8c77af840"
+            "value":"1503a0dc9"
         },
         {
             "name":"ADMIN_INTERSTITIAL_TYPE",
-            "value":"MAX"
+            "value":"IS"
         },
         {
             "name":"ADMIN_INTERSTITIAL_CLICKS",
-            "value":1
+            "value":2
         },
         {
             "name":"ADMIN_BANNER_ADMOB_ID",
-            "value":"f56524009d5064b4"
+            "value":"1503a0dc9"
         },
         {
             "name":"ADMIN_BANNER_FACEBOOK_ID",
-            "value":"f56524009d5064b4"
+            "value":"1503a0dc9"
         },
         {
             "name":"ADMIN_BANNER_TYPE",
-            "value":"MAX"
-        },
-        {
+            "value":"IS"
+        },{
             "name":"ADMIN_NATIVE_FACEBOOK_ID",
             "value":"9c17f55ce685e2ed"
         },
